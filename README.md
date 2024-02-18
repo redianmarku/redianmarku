@@ -16,7 +16,7 @@
 
 
 <div align="center">
-<a href="https://github.com/redianmarku" style="none" target="_blank">
+<a href="https://github.com/redianmarku" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 
@@ -32,7 +32,6 @@
 </div>
 
 <div align="center">
-### Technologies & Frameworks
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/redianmarku)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/redianmarku)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/redianmarku)
