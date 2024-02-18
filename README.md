@@ -31,10 +31,10 @@
 
 </div>
 
-<div align="center">
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/redianmarku)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/redianmarku)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/redianmarku)
+<div style="text-align:center;">
+    <a href="https://github.com/redianmarku"><img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" alt="Python"></a>
+    <a href="https://github.com/redianmarku"><img src="https://img.shields.io/badge/django-black?style=for-the-badge&logo=django" alt="Django"></a>
+    <a href="https://github.com/redianmarku"><img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" alt="React"></a>
 </div>
 
 
