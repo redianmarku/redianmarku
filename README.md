@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://topnotch-programmer.com/wp-content/uploads/2024/08/Long-Name_LOGO.png" />
+  <img src="https://topnotch-programmer.com/wp-content/uploads/2024/12/Long-Name_LOGO-2.png" />
 </p>
 
 <h1 align="center">Hi there!"👋</h1>
