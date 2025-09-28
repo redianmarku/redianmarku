@@ -1,19 +1,4 @@
-<p align="center">
-  <img src="https://topnotch-programmer.com/wp-content/uploads/2024/12/Long-Name_LpOGO-2.png" />
-</p>
-
 <h1 align="center">Hi there!"👋</h1>
-
-<p align="center">
-    <b>Welcome to my GitHub page!</b><br><br>
-    <i>
-        I'm Redian Marku, also known as TopNotch Programmer on YouTube. I love building automation tools, web applications, and exploring various technologies like React, Python, and Django.<br>
-        Check out my YouTube channel <a href="https://www.youtube.com/@topnotchprogrammer">TopNotch Programmer</a> where I share tutorials and projects related to software development and more!
-    </i><br><br>
-    <h2 align="center">Get in Touch</h2>
-    <p align="center">Feel free to connect with me on <a href="https://topnotch-programmer.com/contact/">Contact Form or Online Booking</a>.</p><br />
-</p>
-
 
 <div align="center">
 <a href="https://github.com/redianmarku" target="_blank">
